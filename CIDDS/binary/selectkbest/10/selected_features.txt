@@ -1,0 +1,10 @@
+Duration
+Packets
+Tos
+Proto_TCP  
+Proto_UDP  
+A
+P
+R
+S
+F

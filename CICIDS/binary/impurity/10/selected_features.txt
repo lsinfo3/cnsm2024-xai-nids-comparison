@@ -1,0 +1,10 @@
+ Average Packet Size
+Bwd Packet Length Max
+ Bwd Packet Length Mean
+ Max Packet Length
+ Packet Length Mean
+ Flow IAT Max
+ Avg Fwd Segment Size
+ Min Packet Length
+ Init_Win_bytes_backward
+ Flow IAT Mean

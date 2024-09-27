@@ -1,0 +1,10 @@
+Duration
+Bytes
+Tos
+Proto_IGMP 
+Proto_TCP  
+Proto_UDP  
+P
+R
+S
+F

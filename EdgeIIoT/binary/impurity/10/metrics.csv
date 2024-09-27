@@ -1,0 +1,6 @@
+Model,F1_Macro,F1_Micro
+Decision Tree,1.0,1.0
+Random Forest,1.0,1.0
+LightGBM,1.0,1.0
+Simple Neural Network,1.0,1.0
+Deep Neural Network,1.0,1.0

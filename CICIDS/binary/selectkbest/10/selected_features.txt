@@ -1,0 +1,10 @@
+Bwd Packet Length Max
+ Bwd Packet Length Mean
+ Bwd Packet Length Std
+ Flow IAT Max
+ Fwd IAT Std
+ Fwd IAT Max
+ Packet Length Std
+ Avg Bwd Segment Size
+Idle Mean
+ Idle Max

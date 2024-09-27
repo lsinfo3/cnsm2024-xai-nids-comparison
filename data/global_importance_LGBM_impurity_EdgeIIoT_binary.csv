@@ -1,0 +1,21 @@
+XAI Method,ML Model,Feature Name,Total Importance
+SHAP,LGBM,mqtt.conack.flags_0,3383.0441916959935
+SHAP,LGBM,mqtt.protoname_0,1587.6197915535993
+SHAP,LGBM,tcp.flags,1.2815285348888187e-14
+SHAP,LGBM,mqtt.topic_0,1.8518173106052416e-15
+SHAP,LGBM,mqtt.hdrflags,5.85122228446977e-15
+SHAP,LGBM,icmp.seq_le,1.4280975490707504e-15
+SHAP,LGBM,http.request.version_0,0.0
+SHAP,LGBM,mqtt.msgtype,0.0
+SHAP,LGBM,mqtt.conflag.cleansess,0.0
+SHAP,LGBM,mqtt.topic_len,0.0
+LIME,LGBM,mqtt.conack.flags_0,299.8573324225203
+LIME,LGBM,mqtt.protoname_0,300.08140151973635
+LIME,LGBM,mqtt.topic_len,11.7740808676491
+LIME,LGBM,mqtt.hdrflags,6.29048561635559
+LIME,LGBM,icmp.seq_le,10.280601272483265
+LIME,LGBM,tcp.flags,5.640872869850536
+LIME,LGBM,mqtt.msgtype,6.411498336333405
+LIME,LGBM,http.request.version_0,8.343808766510183
+LIME,LGBM,mqtt.conflag.cleansess,12.153952329818239
+LIME,LGBM,mqtt.topic_0,4.992121970840401

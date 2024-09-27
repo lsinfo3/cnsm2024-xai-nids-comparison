@@ -1,0 +1,10 @@
+ Protocol
+ Flow Duration
+ Total Backward Packets
+Flow Bytes/s
+ Flow Packets/s
+ Flow IAT Min
+ Fwd IAT Min
+Fwd PSH Flags
+FIN Flag Count
+ RST Flag Count

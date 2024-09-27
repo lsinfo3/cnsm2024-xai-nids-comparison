@@ -1,0 +1,10 @@
+ Packet Length Mean
+Init_Win_bytes_forward
+ Init_Win_bytes_backward
+ Avg Bwd Segment Size
+ Bwd Packet Length Mean
+ Subflow Bwd Packets
+ Flow IAT Max
+Fwd PSH Flags
+ Subflow Fwd Bytes
+ Total Length of Bwd Packets
